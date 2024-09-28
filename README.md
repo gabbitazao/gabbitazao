@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriela Zavala and go by Gabbe
 - 👀 I’m interested in weight training
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytic projects
+- 🥇 I’m a Data Analyst
+- 📊 I’m looking to collaborate on Data Analytic projects
 - 📫 How to reach me gabbezavala@gmail.com
 - 😄 Pronouns: She/her/hers/ella
 - ⚡ Fun fact: I'm really funny!
